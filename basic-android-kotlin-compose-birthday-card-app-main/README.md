@@ -17,3 +17,7 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+link for the lesson
+https://developer.android.com/courses/pathways/android-development-with-kotlin-3#codelab-https://developer.android.com/codelabs/android-development-kotlin-3.1  
